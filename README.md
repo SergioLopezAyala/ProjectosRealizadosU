@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Lopez Ayala</h1>
-<h3 align="center">A passionte AWS associate developer and cyber security analyst from Colombia!</h3>
+<h3 align="center">A passionte AWS associate developer, cyber security analyst and back end developer from Colombia!</h3>
 <img align="right" alt="Security" width="500" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
 
 
@@ -11,9 +11,9 @@ alt="mrmiau345248" /> </p>
 
 - 🔭 I’m currently working on **Engineering Systems College Degree**
 
-- 🌱 I’m currently learning **ISC2 cyber security certification, Cython and Linux environment**
+- 🌱 I’m currently learning **ISC2 cyber security certification, Aws associate certification , Cython and Linux environment**
 
-- 👯 I’m looking to collaborate on **Cyber secuurity analysis projects**
+- 👯 I’m looking to collaborate on **Java Spring Boot framework projects**
 
 - 🤝 I’m looking for help with **Cloud infraestrucutre and AWS structure learning**
 
